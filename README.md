@@ -1,5 +1,5 @@
 <head>
-  <title>MachineFun2689</title></title>
+  <title>MachineFun2689</title>
 </head>
 <body>
 
