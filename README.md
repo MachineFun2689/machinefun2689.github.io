@@ -1,8 +1,4 @@
-<head>
-  <title>MachineFun2689</title>
-</head>
-<body>
-<py-script>from random import choice
+from random import choice
 from turtle import *
 
 from freegames import floor, vector
@@ -170,5 +166,4 @@ onkey(lambda: change(0, 5), 'Up')
 onkey(lambda: change(0, -5), 'Down')
 world()
 move()
-done()</py-script>
-</body>
+done()
